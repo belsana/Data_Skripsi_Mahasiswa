@@ -1,2 +1,4 @@
 Membuat program dengan menggunakan Python
 Membuat Tutorial Enterprise Architect
+Koloborasi dengan mahasiswa
+Pembuatan penelitian
